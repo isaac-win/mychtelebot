@@ -16,7 +16,11 @@ class Program
     {
 
         // Setup Telegram Bot
+<<<<<<< HEAD
         var botClient = new TelegramBotClient("7592491653:AAHrzvzstrUtwff25zQKtGgnpR56uX8FS2w");
+=======
+        var botClient = new TelegramBotClient("Your-Bot-Key");
+>>>>>>> c262537ab467be36ed209c1cf4c628325675c208
         using var cts = new CancellationTokenSource();
 
         // Start receiving Telegram updates
