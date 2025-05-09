@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MA83tTjuB9T8W1S5nFeE2xfR7xpSpoQ3Di7cRtb+vtWwr4+ygJHxOWzkt/7mTWVLZ6FMNqMkcO2l39jWFIqbog==",
+  "dgSpecHash": "i0J3PA2RfaOl5UH6Zhsp7SydlbYVvWw4Sr2rDWCvXo7mSYO2CCDpojNTrHpquzynIgBVy+MGUnZdOCU1Ca/phQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\telebot.csproj",
+  "projectFilePath": "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\telebot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IsaacWinstanley\\.nuget\\packages\\microsoft.aspnetcore\\2.3.0\\microsoft.aspnetcore.2.3.0.nupkg.sha512",
     "C:\\Users\\IsaacWinstanley\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

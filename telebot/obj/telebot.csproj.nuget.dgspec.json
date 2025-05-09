@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\telebot.csproj": {}
+    "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\telebot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\telebot.csproj": {
+    "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\telebot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\telebot.csproj",
+        "projectUniqueName": "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\telebot.csproj",
         "projectName": "telebot",
-        "projectPath": "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\telebot.csproj",
+        "projectPath": "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\telebot.csproj",
         "packagesPath": "C:\\Users\\IsaacWinstanley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaacWinstanley\\telebot\\telebot\\obj\\",
+        "outputPath": "C:\\Users\\IsaacWinstanley\\mychtelebot-master\\telebot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IsaacWinstanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
