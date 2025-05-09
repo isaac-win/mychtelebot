@@ -1,0 +1,11 @@
+# Ignore Visual Studio files
+.vs/
+bin/
+obj/
+
+# Ignore temporary system files
+*.log
+*.tmp
+
+# Ignore node_modules (for JavaScript projects)
+node_modules/
